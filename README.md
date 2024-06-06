@@ -4,13 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-coelho-a48258309/) [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wiizzi) [![Instagram](https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skk_coelho/)
 
 ## Habilidades de Programação 🌐
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![PL](https://img.shields.io/badge/PL%2FSQL-111111?style=for-the-badge&logo=oracle&logoColor=FFFFFF&labelColor=111111&color=111111) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python) ![PL](https://img.shields.io/badge/PL%2FSQL-111111?style=for-the-badge&logo=oracle&logoColor=FFFFFF&labelColor=111111&color=111111).
 
-## Bibliotecas e Frameworks 📚
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-000?style=for-the-badge&logo=bootstrap&labelColor=white)
 
 ## Banco de Dados 🏦
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## GitHub Stats 📊
